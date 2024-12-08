@@ -1,0 +1,27 @@
+/* src/components/Testimonials/Testimonials.css */
+.testimonials {
+    background-color: #f3f3f3;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-item {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-item p {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-item h4 {
+    font-size: 1rem;
+    color: #666;
+  }
+  
